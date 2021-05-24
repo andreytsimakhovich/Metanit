@@ -1,0 +1,7 @@
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_03_value_and_ref_types\bin\Debug\3_03_value_and_ref_types.exe.config
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_03_value_and_ref_types\bin\Debug\3_03_value_and_ref_types.exe
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_03_value_and_ref_types\bin\Debug\3_03_value_and_ref_types.pdb
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_03_value_and_ref_types\obj\Debug\3_03_value_and_ref_types.csprojAssemblyReference.cache
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_03_value_and_ref_types\obj\Debug\3_03_value_and_ref_types.csproj.CoreCompileInputs.cache
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_03_value_and_ref_types\obj\Debug\3_03_value_and_ref_types.exe
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_03_value_and_ref_types\obj\Debug\3_03_value_and_ref_types.pdb

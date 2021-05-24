@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metanit_CSharp", "Metanit_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_02_Struct", "3_02_Struct\3_02_Struct.csproj", "{B8FCC27A-FF8B-4A90-B58D-46DD1690314F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_03_Value_and_ref_types", "3_03_value_and_ref_types\3_03_Value_and_ref_types.csproj", "{054BDB81-92EB-4BDD-AA6F-73EDBAC1BA69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B8FCC27A-FF8B-4A90-B58D-46DD1690314F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8FCC27A-FF8B-4A90-B58D-46DD1690314F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8FCC27A-FF8B-4A90-B58D-46DD1690314F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054BDB81-92EB-4BDD-AA6F-73EDBAC1BA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054BDB81-92EB-4BDD-AA6F-73EDBAC1BA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054BDB81-92EB-4BDD-AA6F-73EDBAC1BA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054BDB81-92EB-4BDD-AA6F-73EDBAC1BA69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
