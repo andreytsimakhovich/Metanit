@@ -1,0 +1,7 @@
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_02_Struct\bin\Debug\3_02_Struct.exe.config
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_02_Struct\bin\Debug\3_02_Struct.exe
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_02_Struct\bin\Debug\3_02_Struct.pdb
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_02_Struct\obj\Debug\3_02_Struct.csprojAssemblyReference.cache
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_02_Struct\obj\Debug\3_02_Struct.csproj.CoreCompileInputs.cache
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_02_Struct\obj\Debug\3_02_Struct.exe
+C:\_Tsimakhovich\C#\Metanit\Metanit_CSharp\3_02_Struct\obj\Debug\3_02_Struct.pdb
